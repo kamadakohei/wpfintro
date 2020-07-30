@@ -30,7 +30,8 @@ namespace Wpf.ViewModels
                 {
                     // 入力された文字列を大文字に変換します。
                     this.UpperString = this._inputString.ToUpper();
-
+                    // コマンドの実行可能判別結果に影響を与えているので変更通知をおこないます
+                    this.ClearCommand.RaiseCanExecuteChanged();
                     //　出力ウィンドウに結果を表示します。
                     System.Diagnostics.Debug.WriteLine("UpperString=" + this.UpperString);
                 }
@@ -49,7 +50,8 @@ namespace Wpf.ViewModels
                     this._clearCommand = new DelegateCommand(_ =>
                     {
                         this.InputString = "";
-                    });
+                    },
+                    _ => !string.IsNullOrEmpty(this.InputString));
                 }
                 return this._clearCommand;
             }

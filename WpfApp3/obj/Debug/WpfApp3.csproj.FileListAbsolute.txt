@@ -1,0 +1,15 @@
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.csprojAssemblyReference.cache
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\App.g.cs
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kkamada\source\repos\Wpf\WpfApp3\obj\Debug\Views\MainWindow.baml
