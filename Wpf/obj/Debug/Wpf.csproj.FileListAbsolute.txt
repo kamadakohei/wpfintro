@@ -1,0 +1,15 @@
+C:\Users\kkamada\source\repos\Wpf\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\kkamada\source\repos\Wpf\Wpf\bin\Debug\Wpf.exe
+C:\Users\kkamada\source\repos\Wpf\Wpf\bin\Debug\Wpf.pdb
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.csprojAssemblyReference.cache
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\App.g.cs
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.exe
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Wpf.pdb
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Views\MainView.g.cs
+C:\Users\kkamada\source\repos\Wpf\Wpf\obj\Debug\Views\MainView.baml
