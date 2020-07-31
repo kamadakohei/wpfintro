@@ -1,4 +1,6 @@
-﻿namespace WpfApp5.ViewModels
+﻿using System;
+
+namespace WpfApp5.ViewModels
 {
     /// <summary>
     /// MainWindowウィンドウに対するデータコンテキストを表します。
@@ -20,6 +22,14 @@
                     System.Diagnostics.Debug.WriteLine("ファイルを開きます");
                 }));
             }
+        }
+
+        private Action<bool, string> _dialogCallback;
+
+        public Action<bool, string> DialogCallback
+        {
+            get { return this._dialogCallback; }
+            private set { SetProperty(ref this._dialogCallback, value); }
         }
 
     }
