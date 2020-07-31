@@ -34,5 +34,15 @@ namespace WpfApp6.Views.Behaviors
             target.SetValue(CallbackProperty, value);
         }
         #endregion Callback 添付プロパティ
+
+
+        private static void OnCallBackPropertyChanged(DependencyObject sender, DependencyPropertyChangedEventArgs e)
+        {
+            var callback = GetCallback(sender);
+            if(callback != null)
+            {
+                callback(true, "ファイルパス");
+            }
+        }
     }
 }

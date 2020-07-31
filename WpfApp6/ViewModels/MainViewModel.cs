@@ -19,12 +19,18 @@ namespace WpfApp6.ViewModels
                     return this._openFileCommand ?? (this._openFileCommand = new DelegateCommand(
                     _ =>
                     {
-                        System.Diagnostics.Debug.WriteLine("ファイルを開きます。");
+                        this.DialogCallback = OnDialogCallback;
                     }));
                 }
             }
 
-            private Action<bool, string> _dialogCallback;
+        private void OnDialogCallback(bool isOk, string filePath)
+        {
+            this.DialogCallback = null;
+            System.Diagnostics.Debug.WriteLine("コールバック処理をおこないます");
+        }
+
+        private Action<bool, string> _dialogCallback;
 
             /// <summary>
             /// ダイアログに対するコールバックを取得します。
