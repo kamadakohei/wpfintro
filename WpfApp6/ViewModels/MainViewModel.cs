@@ -41,6 +41,8 @@ namespace WpfApp6.ViewModels
                 private set { SetProperty(ref this._dialogCallback, value); }
             }
     }
- }
+ }
+
+
 
 

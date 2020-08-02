@@ -12,9 +12,10 @@ namespace WpfApp6.Views.Behaviors
         /// <summary>
         /// Action&lt;bool, string&gt; 型の Callback 添付プロパティを定義します。
         /// </summary>
-        public static readonly DependencyProperty CallbackProperty =
-       DependencyProperty.RegisterAttached("Callback", typeof(Action<bool, string>),
+        public static readonly DependencyProperty CallbackProperty 
+            = DependencyProperty.RegisterAttached("Callback", typeof(Action<bool, string>),
        typeof(CommonDialogBehavior), new PropertyMetadata(null));
+        
         /// <summary>
         /// Callback 添付プロパティを取得します。
         /// </summary>

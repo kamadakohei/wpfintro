@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\kkamada\source\repos\Wpf\WpfApp5\obj\Debug\
+C:\Users\kammo\Source\Repos\kamadakohei\wpfintro\WpfApp5\obj\Debug\
 WpfApp5
 none
 false
 DEBUG;TRACE
-C:\Users\kkamada\source\repos\Wpf\WpfApp5\App.xaml
-11892971807
+C:\Users\kammo\Source\Repos\kamadakohei\wpfintro\WpfApp5\App.xaml
+11811751144
 
-8-1242793560
+9-1108315708
 13-1505183044
-Views\MainWindow.xaml;
+Views\MainView.xaml;
 
-False
+True
 
